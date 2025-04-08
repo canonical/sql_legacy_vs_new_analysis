@@ -1,0 +1,85 @@
+quarter,product,legacy_count,new_count,net_difference,net_difference_percent
+2024Q1,Anbox Cloud,1,1,0,0.0
+2024Q1,Ceph,17,17,0,0.0
+2024Q1,Data-big,3,3,0,0.0
+2024Q1,Data-nosql,4,3,-1,-25.0
+2024Q1,Data-sql,3,3,0,0.0
+2024Q1,Desktop,31,32,1,3.2
+2024Q1,Devices,107,104,-3,-2.8
+2024Q1,Hardening,36,36,0,0.0
+2024Q1,Identity,18,18,0,0.0
+2024Q1,K8s,54,57,3,5.6
+2024Q1,Kubeflow/ ai,72,75,3,4.2
+2024Q1,Landscape,22,22,0,0.0
+2024Q1,MAAS,13,14,1,7.7
+2024Q1,MicroCloud,23,23,0,0.0
+2024Q1,Openstack,133,133,0,0.0
+2024Q1,Pro Security,235,236,1,0.4
+2024Q1,Pro WSL,2,2,0,0.0
+2024Q1,Rocks,1,1,0,0.0
+2024Q1,Server,30,30,0,0.0
+2024Q1,Snap Store,11,11,0,0.0
+2024Q1,Telco/Networking,97,106,9,9.3
+2024Q2,AI (x-portfolio),5,5,0,0.0
+2024Q2,Anbox Cloud,1,1,0,0.0
+2024Q2,Ceph,7,7,0,0.0
+2024Q2,Data-big,8,8,0,0.0
+2024Q2,Data-nosql,10,11,1,10.0
+2024Q2,Data-sql,1,1,0,0.0
+2024Q2,Desktop,25,24,-1,-4.0
+2024Q2,Devices,122,123,1,0.8
+2024Q2,Hardening,24,24,0,0.0
+2024Q2,Identity,14,14,0,0.0
+2024Q2,K8s,23,23,0,0.0
+2024Q2,Kubeflow/ ai,68,69,1,1.5
+2024Q2,Landscape,31,31,0,0.0
+2024Q2,MAAS,12,12,0,0.0
+2024Q2,MicroCloud,9,10,1,11.1
+2024Q2,Open source security (x-portfolio),1,1,0,0.0
+2024Q2,Openstack,113,116,3,2.7
+2024Q2,Pro Security,286,286,0,0.0
+2024Q2,Server,30,31,1,3.3
+2024Q2,Snap Store,13,12,-1,-7.7
+2024Q2,Telco/Networking,63,65,2,3.2
+2024Q3,AI (x-portfolio),6,6,0,0.0
+2024Q3,Anbox Cloud,1,1,0,0.0
+2024Q3,Ceph,4,4,0,0.0
+2024Q3,Data-big,6,6,0,0.0
+2024Q3,Data-nosql,4,4,0,0.0
+2024Q3,Data-sql,2,2,0,0.0
+2024Q3,Desktop,29,29,0,0.0
+2024Q3,Devices,96,92,-4,-4.2
+2024Q3,Hardening,43,43,0,0.0
+2024Q3,Identity,13,14,1,7.7
+2024Q3,K8s,37,36,-1,-2.7
+2024Q3,Kubeflow/ ai,117,116,-1,-0.9
+2024Q3,Landscape,31,31,0,0.0
+2024Q3,MAAS,16,16,0,0.0
+2024Q3,MicroCloud,14,14,0,0.0
+2024Q3,Openstack,114,114,0,0.0
+2024Q3,Pro Security,222,224,2,0.9
+2024Q3,Rocks,4,4,0,0.0
+2024Q3,Server,26,26,0,0.0
+2024Q3,Snap Store,18,18,0,0.0
+2024Q3,Telco/Networking,88,88,0,0.0
+2024Q4,AI (x-portfolio),6,6,0,0.0
+2024Q4,Anbox Cloud,4,4,0,0.0
+2024Q4,Ceph,8,8,0,0.0
+2024Q4,Data-big,14,14,0,0.0
+2024Q4,Data-nosql,7,6,-1,-14.3
+2024Q4,Data-sql,12,12,0,0.0
+2024Q4,Desktop,19,18,-1,-5.3
+2024Q4,Devices,159,162,3,1.9
+2024Q4,Hardening,31,31,0,0.0
+2024Q4,Identity,11,10,-1,-9.1
+2024Q4,K8s,69,68,-1,-1.4
+2024Q4,Kubeflow/ ai,166,164,-2,-1.2
+2024Q4,Landscape,18,18,0,0.0
+2024Q4,MAAS,13,12,-1,-7.7
+2024Q4,MicroCloud,33,32,-1,-3.0
+2024Q4,Openstack,176,175,-1,-0.6
+2024Q4,Pro Security,206,205,-1,-0.5
+2024Q4,Rocks,5,5,0,0.0
+2024Q4,Server,22,22,0,0.0
+2024Q4,Snap Store,16,16,0,0.0
+2024Q4,Telco/Networking,113,105,-8,-7.1
